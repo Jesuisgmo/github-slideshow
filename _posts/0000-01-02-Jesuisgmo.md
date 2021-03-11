@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome tp our second slide!"
 ---
-Your text
+> Yey. Interdisciplinary!
 Use the left arrow to go back!
